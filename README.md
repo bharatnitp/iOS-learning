@@ -1,6 +1,6 @@
 # iOS-learning
 
-# Teck stack 
+# Teck Stack 
     - https://medium.com/geekculture/my-ios-techstack-2021-2cdb6739972c
 
 # System Design 
